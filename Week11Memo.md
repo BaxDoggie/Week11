@@ -1,0 +1,15 @@
+ - archaeology sits between natural and social sciences on hardness
+ - more authors per paper suggest growing collaboration and partial hardness
+ - article length trends softer resembling humanities styles
+ - title length recency and diversity of references place archaeology near social sciences
+ - hardness has changed slowly over time with authorship increasing most strongly
+ - jas reproducibility reviews show low success rates for computational reproduction
+ - common issues include missing data underspecified dependencies bad paths and weak documentation
+ - many authors share materials on zenodo while github alone is risky for long term availability
+ - recommended basics are simple folder structures relative paths ordered scripts and a clear readme
+ - list package names and versions use renv for r and conda or poetry for python
+ - include a dockerfile for complex dependencies and consider workflow tools like make snakemake or targets
+ - rerun code on another machine before submission to catch path and function errors
+ - qualitative archaeology can aim for replication via careful documentation even when computation is minimal
+ - reproducibility strengthens consensus and scientific rigor and should be part of peer review culture
+ - the paper calls for cultural and technical shifts so reproducibility becomes routine in archaeological science
